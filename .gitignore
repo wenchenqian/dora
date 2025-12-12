@@ -19,7 +19,6 @@ examples/**/*.txt
 *.jpg
 *.mp3
 *.wav
-*.png
 !docs/src/latency.png
 
 # Remove *.html. Likely be outputed mermaid graph.
